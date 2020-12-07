@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "input.file",
+    "type": "java.lang.String",
+    "description": "A description for 'input.file'"
+  },
+  {
+    "name": "inputVendor.file",
+    "type": "java.lang.String",
+    "description": "A description for 'inputVendor.file'"
+  }
+]}
